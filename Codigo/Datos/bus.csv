@@ -1,0 +1,501 @@
+placa,motor,capacidad,modelo,tipo,color
+M9G-4Z4,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+T7Z-2E9,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+W6L-3M8,V8 5.0L 460 CV,80,normal,A,naranja
+C1A-9S7,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+P8J-8B0,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+P2M-7N2,V8 5.0L 460 CV,40,normal,A,amarillo
+D1M-1C0,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+W6Q-9X7,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+O5E-2R7,V8 5.0L 460 CV,40,normal,A,amarillo
+I7J-2M7,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+Y2J-7S2,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+C9O-7F6,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+U0Z-6J0,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+F6Y-1Y9,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+N1Q-6D6,V8 5.0L 460 CV,40,normal,A,amarillo
+A9H-2G2,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+P5P-2Y4,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+E6H-9P4,V8 5.0L 460 CV,40,normal,A,amarillo
+R5A-3O7,V8 5.0L 460 CV,80,normal,A,naranja
+L8S-2K6,V8 5.0L 460 CV,40,normal,A,amarillo
+Q8V-6J4,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+D6F-6J7,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+X3L-3A6,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+D8V-1O4,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+G9F-3Z9,V8 5.0L 460 CV,80,normal,A,naranja
+D4T-9Z8,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+E2E-4T6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+W6A-8G2,V8 5.0L 460 CV,40,normal,A,amarillo
+K8S-7S9,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+B0N-5N6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+B4R-5I5,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+I4U-7C9,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+I2S-7S2,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+K0K-5T7,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+W6I-7G1,V8 5.0L 460 CV,80,normal,A,amarillo
+J3P-3T0,V8 5.0L 460 CV,40,normal,A,naranja
+I3B-2J5,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+P2H-5G5,Motor eléctrico con pila de combustible 176 CV,40,normal,A,amarillo
+R7N-6I0,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+W6O-0M4,V8 5.0L 460 CV,40,normal,A,naranja
+T2P-9E7,V8 5.0L 460 CV,40,normal,A,amarillo
+D6P-5Z5,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+Q0L-5L0,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+H8D-5Z5,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+P5X-3E6,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+L6G-1A6,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+D7Y-0E7,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+R7O-8K2,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+Y7Z-9L7,V8 5.0L 460 CV,80,normal,A,naranja
+W0C-1G5,V8 5.0L 460 CV,80,normal,A,amarillo
+U8A-0Z9,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+R3E-9N7,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+O0D-2T8,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+N1M-9H8,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+L7M-2R9,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+Z3L-2M6,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+H2H-1W7,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+D0R-4R6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+O8X-0S6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+E0Q-7V2,V8 5.0L 460 CV,80,normal,A,amarillo
+K2H-5E1,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+R9E-8A1,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+P2F-7O0,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+M9A-1Y8,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+M9Z-3G3,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+H6F-5W5,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+R0I-3L1,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+Y9V-9N1,V8 5.0L 460 CV,40,normal,A,amarillo
+H4X-4J0,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+K9E-7D4,V8 5.0L 460 CV,40,normal,A,amarillo
+Q3Y-2S8,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+E6C-6O9,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+L4N-1C5,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+L1Y-9X2,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+J2M-6M7,Motor eléctrico 150 kW 200 CV,40,normal,A,amarillo
+F1L-3Q3,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+I7U-6S2,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+Y5E-2Y3,V8 5.0L 460 CV,80,normal,A,amarillo
+C3N-3C3,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+D5T-5M6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+E8R-9E4,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+M1T-6X5,V8 5.0L 460 CV,40,normal,A,naranja
+C4X-9M4,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+G6O-7W8,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+L6K-5O2,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+K1I-7Y9,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+W7C-6A1,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+P3C-5W5,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+R0V-2G9,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+O4F-2P6,V8 5.0L 460 CV,40,normal,A,naranja
+H5T-6A9,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+I5E-3Q2,V8 5.0L 460 CV,80,normal,A,amarillo
+P5I-9I0,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+Q1P-6E0,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+Q0X-5Z0,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+O4B-5A0,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+C9B-8J0,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+V7Q-9K5,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+N9K-4V8,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+L9A-2Z9,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+O2A-1C5,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+Z8N-7S7,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+J4B-4E2,V8 5.0L 460 CV,80,normal,A,naranja
+E6Q-5L7,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+W1N-2M3,V8 5.0L 460 CV,40,normal,A,naranja
+L6X-3R0,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+R8L-8O4,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+P2J-1W4,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+E2M-4P6,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+B8M-7W2,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+G3Q-4C6,V8 5.0L 460 CV,80,normal,A,amarillo
+I8S-1E9,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+L8Z-3I2,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+R3X-9Y9,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+H0F-6M7,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+D9R-4Z7,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+W9B-1G9,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+Y2N-6K0,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+C6V-1A2,V6 2.7L biturbo 325 CV,80,normal,A,amarillo
+H0J-7F4,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+H1W-8Q4,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+E1V-6W1,V8 5.0L 460 CV,80,normal,A,naranja
+F0V-7F1,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+G0H-9D9,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+T9M-4X0,V8 5.0L 460 CV,40,normal,A,naranja
+X5I-8A7,V8 5.0L 460 CV,40,normal,A,naranja
+L8K-1W5,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+S8T-6V5,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+U3Q-3D7,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+E3Y-1G0,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+Y4O-5R1,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+Z2Y-5E5,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+C7I-9M9,V8 5.0L 460 CV,40,normal,A,naranja
+J6B-4P3,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+N9B-9R2,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+U5R-1I8,V8 5.0L 460 CV,40,normal,A,amarillo
+A2O-4A4,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+H5T-4N9,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+J0V-9Q1,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,naranja
+C2O-3M4,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+N2T-0T1,V8 5.0L 460 CV,80,normal,A,naranja
+K8L-4F6,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+R9B-1N7,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+Z2Z-2U7,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+Q4Z-6I5,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+Z2B-8A9,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+N2A-0E0,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+R4Z-2E8,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+X6N-9G6,V8 5.0L 460 CV,40,normal,A,amarillo
+E7G-4W4,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+F6D-7S8,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+E6W-1I6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+P5A-4X1,V8 5.0L 460 CV,80,normal,A,amarillo
+P2Q-9S7,V8 5.0L 460 CV,80,normal,A,naranja
+K2T-5P2,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+K1W-7J7,V8 5.0L 460 CV,40,normal,A,naranja
+P4R-3Z4,V8 5.0L 460 CV,80,normal,A,amarillo
+D8O-0R9,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+V9T-1F3,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+O2R-0Q3,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+L8E-0W0,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+Q4Q-3Q3,V6 2.7L biturbo 325 CV,40,normal,A,naranja
+Z7I-1B3,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+H2K-4P4,V8 5.0L 460 CV,80,normal,A,naranja
+B6I-4K2,Motor eléctrico 150 kW 200 CV,80,normal,A,amarillo
+J3R-7H9,Motor eléctrico 150 kW 200 CV,80,normal,A,naranja
+F6L-7G8,Motor eléctrico con pila de combustible 176 CV,40,normal,A,amarillo
+W8C-1B3,Motor eléctrico con pila de combustible 176 CV,40,normal,A,amarillo
+K8Z-9G7,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+N4J-8E1,Motor eléctrico con pila de combustible 176 CV,80,normal,A,amarillo
+D9V-4P7,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+U8V-4D9,Motor eléctrico 150 kW 200 CV,40,normal,A,amarillo
+M6F-4F3,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+Y8X-6L0,Motor eléctrico 150 kW 200 CV,40,normal,A,amarillo
+Q8A-3M5,V8 5.0L 460 CV,40,normal,A,naranja
+J1T-5D2,Motor eléctrico 150 kW 200 CV,40,normal,A,amarillo
+N1Z-8X3,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+K7R-9N5,V8 5.0L 460 CV,40,normal,A,amarillo
+M2B-3I1,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+D8N-7B1,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+L1L-5D0,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+N3T-9J9,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+T1I-1J8,Motor eléctrico con pila de combustible 176 CV,40,normal,A,naranja
+F2U-8I1,V8 5.0L 460 CV,80,normal,A,naranja
+G6J-9F1,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+G6P-8J6,Motor eléctrico 150 kW 200 CV,40,normal,A,naranja
+W6U-4K9,V8 5.0L 460 CV,80,normal,A,naranja
+R7D-2H7,Motor eléctrico con pila de combustible 176 CV,80,normal,A,naranja
+I5F-0O0,V8 5.0L 460 CV,80,normal,A,amarillo
+E0F-9V6,Motor eléctrico con pila de combustible 176 CV,40,normal,A,amarillo
+N2R-7Y7,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+C9A-8F4,Motor eléctrico 150 kW 200 CV,40,normal,A,amarillo
+E3N-0V9,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,naranja
+T8J-0Q0,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+F8E-5Y7,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+T6F-9X6,V6 3.6L Pentastar PHEV 248 CV,40,normal,A,amarillo
+T0E-1I4,V6 2.7L biturbo 325 CV,40,normal,A,amarillo
+O7B-6R8,V6 2.7L biturbo 325 CV,80,normal,A,naranja
+X0X-6Q2,V8 5.0L 460 CV,80,normal,A,amarillo
+D7O-0Z2,V6 3.6L Pentastar PHEV 248 CV,80,normal,A,amarillo
+A3Z-5B1,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+R2Q-3Y8,V8 5.0L 460 CV,120,articulado,T,plomo
+D7H-2R8,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+A4O-1K2,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+U3X-1I7,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+Y9E-8S7,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+M0W-0A6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+T8W-2G4,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+R6U-2M2,V8 5.0L 460 CV,160,articulado,T,plomo
+Y8R-3H6,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+L6E-2Y4,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+J8Y-2P7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+E7L-1X7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+C0R-6Z8,V8 5.0L 460 CV,160,articulado,T,plomo
+E9I-7Q5,V8 5.0L 460 CV,160,articulado,T,plomo
+V1T-8Q3,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+H8R-0G5,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+B0J-3F8,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+J1W-2C5,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Y1C-6T7,V8 5.0L 460 CV,120,articulado,T,plomo
+T3W-2H0,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Z7Z-4L7,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+O5E-2E8,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+H6U-4T5,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+F6Z-3Y7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+V7O-5B1,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+T7B-7A2,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+G9J-2I2,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+K6R-3M9,V8 5.0L 460 CV,160,articulado,T,plomo
+W8E-7B4,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+N9T-4H0,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+A1P-7S7,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+W3Z-8H1,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+A6B-3U4,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+I5V-2B9,V8 5.0L 460 CV,160,articulado,T,plomo
+V9X-7J5,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+Z1O-2N5,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+T6K-3P5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+N2C-6R0,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+U4C-2C6,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+C3O-6I6,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+H6V-4N4,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+G8D-2I2,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+D1F-5M5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Z8B-5U7,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+N9E-2G9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+U3T-5N1,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+H5Q-4F4,V8 5.0L 460 CV,120,articulado,T,plomo
+E7L-6V5,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+Y0H-1H1,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+O7E-2Q8,V8 5.0L 460 CV,160,articulado,T,plomo
+N0R-4A5,V8 5.0L 460 CV,120,articulado,T,plomo
+Y8Y-0O8,V8 5.0L 460 CV,120,articulado,T,plomo
+X6Q-2Y9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+H8J-5M7,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Z9K-6C8,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+M3C-7L5,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+R7G-3Y8,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+H7V-8Z3,V8 5.0L 460 CV,120,articulado,T,plomo
+J1A-9S1,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+F1H-6I1,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+N4S-3B2,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Z3Y-4U7,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+O3E-0T6,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+P9I-1E3,V8 5.0L 460 CV,120,articulado,T,plomo
+T1D-6R0,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+N0H-0M9,V8 5.0L 460 CV,160,articulado,T,plomo
+P9V-1U0,V8 5.0L 460 CV,120,articulado,T,plomo
+Z2U-1S5,V8 5.0L 460 CV,120,articulado,T,plomo
+I2G-4L6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+M3Y-6A1,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+W0J-4L5,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+C4G-8C3,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Z0D-0N8,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+L4M-1B6,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+T9M-5O7,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+O1S-1R2,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+W9X-1I0,V8 5.0L 460 CV,120,articulado,T,plomo
+C2D-2B6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+X2V-8G3,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+I9C-0E0,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+I4G-5J4,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+V7G-9R0,V8 5.0L 460 CV,120,articulado,T,plomo
+W5J-2K3,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+I4W-5M0,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+X6U-1K3,V8 5.0L 460 CV,120,articulado,T,plomo
+Z7D-4R6,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+F4H-2C2,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+D2M-1U4,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+U0M-6O6,V8 5.0L 460 CV,160,articulado,T,plomo
+G2B-3M7,V8 5.0L 460 CV,120,articulado,T,plomo
+I4H-1Z0,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+N4Q-3U9,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+O6M-8E2,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+H7V-4Q2,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+O7I-2F6,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+L6R-9U1,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+C6P-1S7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+L8W-8H5,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+Y5N-7V1,V8 5.0L 460 CV,160,articulado,T,plomo
+Y3C-4M1,V8 5.0L 460 CV,160,articulado,T,plomo
+H4C-5R4,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+Y7S-3X5,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+Z8C-8O1,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+P9F-7H0,V8 5.0L 460 CV,120,articulado,T,plomo
+X4F-2R9,V8 5.0L 460 CV,120,articulado,T,plomo
+Y8C-7P1,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+W0R-2A8,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+G3E-6H3,V8 5.0L 460 CV,120,articulado,T,plomo
+V1B-5L7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+H5P-4X6,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+I5E-6P4,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+O7Z-3W1,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+D7B-2V8,V8 5.0L 460 CV,120,articulado,T,plomo
+K1E-0M8,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+F4W-3D3,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+W8L-0D8,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+A5B-9G5,V8 5.0L 460 CV,120,articulado,T,plomo
+J3O-3H1,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+Z6B-0E0,V8 5.0L 460 CV,160,articulado,T,plomo
+V1V-5I8,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+T9E-6I8,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Q2K-4N0,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+S5T-8B2,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+O0P-4W7,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+H3G-7D3,V8 5.0L 460 CV,160,articulado,T,plomo
+G4D-7D5,V8 5.0L 460 CV,160,articulado,T,plomo
+G5T-7O0,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+O6P-2S1,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+K5X-3X6,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+R3T-3U9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+D3L-5V7,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+U6Q-5C5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+U5M-6R6,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+E3A-4L4,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+L9G-3B7,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+I9M-0Z5,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+J9M-1Z3,V8 5.0L 460 CV,160,articulado,T,plomo
+Q0A-3O5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+K5Q-0W3,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Y0J-4I9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+Q1C-8A9,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+I8Q-5J9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+U5Q-6F0,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+L5C-5E1,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+T5V-4L0,V8 5.0L 460 CV,160,articulado,T,plomo
+L4K-0I4,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+L1E-9Z7,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+G7C-1K6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+K2C-8A0,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+G7E-4I6,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+H6A-7O7,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+M4O-1W3,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+C2N-7T6,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+B0D-8O9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+X0D-3U3,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+K0G-0O9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+A7L-1G1,V8 5.0L 460 CV,120,articulado,T,plomo
+E5R-5N8,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+T3J-2S8,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+S5Y-7O9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+W7U-5R8,V8 5.0L 460 CV,160,articulado,T,plomo
+A8A-1Z8,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+Y9T-5R9,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+T2G-0Y1,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+P6Y-2B0,V8 5.0L 460 CV,120,articulado,T,plomo
+N9P-9L4,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+I8N-0A7,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+U5U-4I0,V8 5.0L 460 CV,120,articulado,T,plomo
+F3O-6E4,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+Y0W-6F9,V8 5.0L 460 CV,120,articulado,T,plomo
+O6K-0M2,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+I0Z-2X7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+D4T-3Q9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+V4M-1E9,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+I3K-2K8,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+H4J-2Z5,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+Y9V-4X9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+X7I-6U8,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+R0U-1G3,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+P6V-7N2,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+S6S-8I2,V8 5.0L 460 CV,160,articulado,T,plomo
+R3H-1C3,V8 5.0L 460 CV,160,articulado,T,plomo
+E3J-8L4,V8 5.0L 460 CV,120,articulado,T,plomo
+F1O-0I0,V8 5.0L 460 CV,120,articulado,T,plomo
+U8J-8O5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+I9D-6Q2,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+W5S-3D8,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+N0T-5F5,V8 5.0L 460 CV,160,articulado,T,plomo
+R4C-5Z7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+X3U-1Q6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+X5G-7J9,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+A1T-8I2,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+L2W-4W3,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+P7B-2I5,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+C7E-5O0,V8 5.0L 460 CV,120,articulado,T,plomo
+L5O-5G8,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+H7W-1U8,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+Y6Q-1Y6,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+S4J-8J9,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+Q3R-8B2,V8 5.0L 460 CV,160,articulado,T,plomo
+N2Q-3G3,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+S8G-6H4,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+T8F-1B0,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+W1K-9G7,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+H0Y-5S4,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+S6I-8M1,V8 5.0L 460 CV,160,articulado,T,plomo
+A4U-0X6,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+W0F-5E9,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+I1G-2R1,V8 5.0L 460 CV,160,articulado,T,plomo
+O7P-7E8,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+S6Y-9Q6,V8 5.0L 460 CV,160,articulado,T,plomo
+L9Q-4O1,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Q9I-7K4,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+W7D-9B3,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+C0W-3X5,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+D9E-3E8,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+O5L-0P6,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+D7W-2E5,V8 5.0L 460 CV,160,articulado,T,plomo
+H5Q-2X5,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+R9E-1Q6,V8 5.0L 460 CV,160,articulado,T,plomo
+K6T-4H7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+S5X-1T2,V8 5.0L 460 CV,160,articulado,T,plomo
+X2K-5W5,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+X5O-8S7,V8 5.0L 460 CV,120,articulado,T,plomo
+L7W-8F2,V8 5.0L 460 CV,120,articulado,T,plomo
+S2Y-4C2,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+Z8F-6H4,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+X6Q-0G5,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+X8D-5S0,V8 5.0L 460 CV,160,articulado,T,plomo
+S4U-0V8,V8 5.0L 460 CV,160,articulado,T,plomo
+R2Y-9N0,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+Q6E-8G2,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+F3C-9T3,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+W4D-5J2,V8 5.0L 460 CV,120,articulado,T,plomo
+X8J-9F6,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+B8A-0U8,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+T6D-2X2,V8 5.0L 460 CV,120,articulado,T,plomo
+P1G-9G4,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+D6X-2X3,V8 5.0L 460 CV,160,articulado,T,plomo
+B0K-5K7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+R2G-8Z6,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+I9V-6S2,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+A3B-4U0,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+J9V-2P8,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+Y4E-7A6,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+C9R-1B0,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+X6S-2T6,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+Z2S-3L5,V8 5.0L 460 CV,120,articulado,T,plomo
+W4G-8J0,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+I0V-4X6,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Y4D-2P0,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+T9S-9Z3,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+U6Q-6A3,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+Y2I-3D9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+S4D-5S0,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+R8J-0E7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+C1X-0M0,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+L5O-9U9,V8 5.0L 460 CV,120,articulado,T,plomo
+R1C-4M1,V8 5.0L 460 CV,120,articulado,T,plomo
+Q7A-4A9,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+S4Y-8E9,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+E4R-0Q0,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+T8B-2V7,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+A2G-0E4,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+X4W-6D2,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+G6C-0P8,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+V6W-3B9,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+S7R-8Q6,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+Y8I-5D2,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+B4N-8E0,V8 5.0L 460 CV,120,articulado,T,plomo
+K6D-3X3,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+U7H-1Z8,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+N7A-9X2,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+W9F-5D8,V8 5.0L 460 CV,160,articulado,T,plomo
+F2O-6K8,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+E5E-6N2,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+F6W-1Z5,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+N0L-5J8,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+V2P-0L0,V6 3.6L Pentastar PHEV 248 CV,160,articulado,T,plomo
+Q9Y-1Z7,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+M9P-2N7,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+Y5K-7R7,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+X1W-6Q8,V8 5.0L 460 CV,160,articulado,T,plomo
+Q1F-0Q3,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+S4M-7K2,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+V4H-2V1,Motor eléctrico con pila de combustible 176 CV,120,articulado,T,plomo
+Y3V-1J5,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+A1S-2E9,V8 5.0L 460 CV,120,articulado,T,plomo
+M5A-0Q4,V6 3.6L Pentastar PHEV 248 CV,120,articulado,T,plomo
+D5F-1F6,Motor eléctrico 150 kW 200 CV,120,articulado,T,plomo
+G6M-8K3,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+T9K-2W8,V8 5.0L 460 CV,120,articulado,T,plomo
+W3I-4L7,V6 2.7L biturbo 325 CV,120,articulado,T,plomo
+Q1E-7Q7,Motor eléctrico con pila de combustible 176 CV,160,articulado,T,plomo
+F0H-2B0,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo
+T0X-0S9,V6 2.7L biturbo 325 CV,160,articulado,T,plomo
+S0U-6P0,V8 5.0L 460 CV,160,articulado,T,plomo
+F3C-1X6,V8 5.0L 460 CV,160,articulado,T,plomo
+E1V-7B9,Motor eléctrico 150 kW 200 CV,160,articulado,T,plomo

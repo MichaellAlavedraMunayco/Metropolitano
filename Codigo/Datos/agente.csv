@@ -1,0 +1,47 @@
+direccion,distrito,latitud,longitud,agente,paradero,ruta,num_direccion,referencia,urbanizacion
+Av. La Union,San Juan de Miraflores,"12°11'6.75""S","76°58'33.12""O",BODEGA BAZAR,N.A,America,Mz-P lt-26,a 1/2 crda. de Panamericana Sur,Coop. Vivienda. America Lima
+Cocharcas Calle C Bajo,Chorrillos,"12°10'57.41""S","76°59'32.64""O",BODEGA JUANITA,Calle C,America,Mz-B Lt-13,Av. El Sol ( frente a comisaria),Urb. Cocharcas
+Av. La Union,San Juan Miraflores,"12°11'10.51""S","76°58'46.86""O",BODEGA LIBRERIA BAZAR,Paradero,America,Mz-Z Lt-4A,frente a loza deportiva,Coop. Vivienda. America Lima
+Av. Angamos Este,Miraflores,"12° 6'48.08""S","77° 1'36.85""O",BODEGA KARLITA,N.A,Angamos,431,Av. Angamos Oeste a 40 metros de paseo de la Republica.,N.A
+Av. Alcides Vigo Mz. D,SAN MARTIN DE PORRES,"11°59'48.78""S","77° 5'54.39""O",LIBRERIA ELY,N.A,Antunez de Mayolo,44,Por la cooperacion,N.A
+Av. Victor Belaunde Este,Comas,"11°56'28.34""S","77° 2'31.64""O",BODEGA YAZMIN,Larco Herrera,Belaunde,721,Av. Belaunde con paradero Larco herrera.,N.A
+Av. Victor Belaunde Este,Comas,"11°56'27.42""S","77° 2'59.44""O",LOCUTORIO SISO III,Paradero Belaunde,Belaunde,112,Av. Tupac Amaru con cruce Belaunde.,N.A
+Av. Cerro de Pasco,Comas,"11°56'36.55""S","77° 2'7.17""O",BODEGA NAYRA,Talara,Belaunde,104,Esquina con Talara Km.13 (Paradero Inicial y Final de Alimentador Belaunde)Cuadra 13 Belaunde Este,Carmen Alto
+Av. Alameda Los Cedros,Chorrilos,"12°12'20.68""S","77° 0'43.01""O",BOTICA NOVAFARMA,Las Tortugas,Cedros de Villa,588,Alameda los Cedros a una cdra Av.Horizonte,Los Cedros de Villa
+AV. ALAMEDA SUR MZA. G6 LOTE. 26,CHORRILLOS,"12°12'1.14""S","77° 0'48.29""O",MULTISERVICIOS FAMIZ,N.A,Cedros de Villa,N.A,(ALT. CALLE BERMUDAS),URB. LOS CEDROS DE VILLA
+Jr. Jose Carlos Mariategui,Carabayllo,"11°52'35.27""S","77° 0'43.89""O",BODEGA DON NICO,Grifo,Collique,230,A 1/2 cdra de la av. Manuel Prado,Urb. El Progreso
+Jr. Lopez Albujar,Comas,"11°56'0.30""S","77° 2'45.66""O",BOTICA J&R FARMA,La Pascana (*),Collique,112,A1 1/2 cdra. De Plaza vea de Micaela Bastidas,Urb. La Pascana
+Av. Tupac Amaru,Carabayllo,"11°52'51.00""S","77° 1'18.22""O",BOTICA CRISTO VIVE,Mercado Chacra cerro (Ciro Alegria),Collique,Mz. B Lte. 15,Frente a poder judicial o el colegio Ciro Alegria,AA HH El Dorado
+Av. San Martin,Comas,"11°57'35.92""S","77° 3'12.50""O",LOCUTORIO SISO,España,Collique,159,Alt. Paradero Correo,Urb. La Libertad
+Av. Tupac Amaru,Carabayllo,"11°54'19.03""S","77° 1'54.11""O",BOTICA DINA FARMA,Bco. Nacion,Collique,229,En la entrada de la Uirb. Sta Isabel,Urb. Sta Isabel
+Av. Puno,Comas,"11°57'10.66""S","77° 3'4.12""O",SERVICIOS MÚLTIPLES,Fe y Alegría,Collique,120,cruce con Av. Tupac Amaru,P.J. Pampa de Comas Km 11
+Av. Tupac Amaru,Comas,"11°54'59.81""S","77° 2'28.72""O",MULTISERVICIOS SUI ,Fe y Alegria,Collique,7721,frente al colegio fe y alegría cruce con Av. Los Incas,Urb. San Juan Bautista
+2001-11-10T05:00:00.000Z,Chorrillos,"12°11'13.53""S","77° 0'26.13""O",LOCUTORIO SARITA COLONIA,Huaylas,EJE,Mz-A Lt-1,Prolg. Huaylas cdra. 1./Av. Buenos Aires,Asoc. Sarita Colonia
+Av. Proceres,Los Olivos,"11°56'35.40""S","77° 4'39.19""O",GRIFO EL TAMBO (MINIMARKET),Cesar vallejo,La Ensenada,2566,cruce de Av. Proceres y Portales,Urb. PRO Mz. V4 Lt. 66
+Mz LL Lt. 1A,Pte Piedra,"11°56'11.53""S","77° 5'38.78""O",BOTICA VALENTINA- ELIZABETH,Los Sauces,La Ensenada,N.A,Frente a la comisaria de la ensenada,A.A.H.H La Ensenada Chillon
+Av. Santa Elvira,Los Olivos,"11°57'35.68""S","77° 4'22.24""O",BOTICA PAUL FARMA,Santa Elvira,La Ensenada,6100,0,Villa Sol
+Av. Cordialidad,Los Olivos,"11°56'13.12""S","77° 4'49.19""O",MINIMARKET LA HABANA,San Martin,La Ensenada,8119(v v 2 Lt.15,"Cerca de Comisaria, Antes de la Ensenada, Altura. Panamericana Norte, Plaza Vea de Pro",Urb. Las Flores
+Av Acacias,Puente Piedra,"11°55'57.50""S","77° 5'47.19""O",BOTICA BETTY,Los Sauces,La Ensenada,"Mz ""C"" Lote 13 - puente piedra",Av Acacias frente del paradero del metropolitano,Puente Piedra
+Av. Cordialidad,Los Olivos,"11°56'10.42""S","77° 4'55.85""O",GRIFO PRO/BODEGA JUANCHO,Los Portales,La Ensenada,Mz. A-5 Lt. 17,Av. Cordialidad antes del puente Chillon.,Pro
+Mz A1 Lt 1,Puente Piedra,"11°56'10.98""S","77° 5'2.63""O",LOCUTORIOS TELÉF.,Los Portales,La Ensenada,N.A,a una cdra. Del puente para el lado izq.,Portales de Chillon
+Av.Los Alisos,SAN MARTIN DE PORRES,"11°58'59.57""S","77° 3'33.21""O",LOCUTORIO,Maracuya,Los Alisos,180,Estacion Naranjal a primera cuadra.,N.A
+Mz D Lt. 13,SAN MARTIN DE PORRES,"11°58'55.40""S","77° 5'45.47""O",BODEGA VALQUI,"Avenida ""C""",Los Alisos,S/N,A una cuadra de Canta Callao,Urb. Jardines de Naranjal
+Mz. A Lte. 13,San Martin de Porres,"11°58'40.95""S","77° 4'41.11""O",LOCUTORIO LAS ORQUÍDEAS,Malvas,Los Alisos,S/N,N.A,Ur. El Pinar
+Av. Los Olivos-Mz D Lt. 3,San Martin de Porres,"11°59'1.17""S","77° 5'56.38""O",LOCUTORIO VEGA,Canta Sur,Los Olivos,S/N,Al costado del grifo,Asoc. Monte Azul de Sta. Rosa
+Av. Guardia Civil,Surco,"12° 9'35.12""S","76°59'17.90""O",BOTICA LA FARMA,Los incas,Los Proceres,Mz G1 Lt 41,cruce con Av. Alcides Vigo,Urb. Honor y Lealtad
+Av. Guarda Civil,Chorrillos,"12°10'57.96""S","76°59'58.87""O",FARMA PLUS,Guardia Peruana,Los Proceres,474,cruce con Av. G. Civil/Av. G Peruana,Urb. La Campiña
+Av. Chinchaysuyo,Independencia,"11°58'42.41""S","77° 3'8.95""O",GRIFO EL CHASQUI (MINIMARKET),CHI3CA1,Payet,402,Frente a posta medica,Tahuantinsuyo
+AV. JOSE GABRIEL CONDORCANQUI,Independencia,"11°58'26.11""S","77° 2'52.41""O",BAZAR LIBRERÍA LOURDEZ,N.A,Payet,686,N.A,N.A
+Asoc. Milagrosa Curz de Motupe,Puente Piedra,"11°53'24.27""S","77° 4'5.49""O",BOTICAS INTERFARMA,Establo,Puente Piedra,Mz. I Lt. 1,N.A,N.A
+Asociacion Naranjitos Mz C Lt. A,Puente Piedra,"11°52'50.35""S","77° 4'6.66""O",BOTICA FARMA ANYELUZ,0,Puente Piedra,0,0,0
+Av. San Juan Lecaros,Puente Piedra,"11°51'55.40""S","77° 4'34.94""O",TELCOMUNICACIONES DAAX,Lecaros,Puente Piedra,S/N TDA 8,Frente a Norkys,N.A
+AV. 2 DE OCTUBRE,LOS OLIVOS,"11°56'45.90""S","77° 4'41.39""O",PLAZATEL,N.A,Puente Piedra,MZA.F LOTE 1 ASOC. EL OLIVAR,A MEDIA CUADRA DEL OVALO DE INFANTAS,N.A
+AV. Puno,Comas,"11°56'7.12""S","77° 3'22.74""O",INTERNET CLARITANET,Progreso,Puno,2590,Frente al paradero Buss(Metropolitano) Jr. Progreso. Km 11,La Libertad Km 17
+Av. Coricancha,Independencia,"11°58'48.49""S","77° 2'17.09""O",BODEGA EMMANUEL,QUI1HUAT,Tahuantinsuyo,690,Cruce con calle Vilcashuaman,Tahuantinsuyo
+Av. Coricancha,Independencia,"11°58'53.10""S","77° 2'38.84""O",LOCUTORIO LEO,CORI4CUS,Tahuantinsuyo,262,En la curva Chabuca Granda.,III Zona
+Av. Los Heroes del Alto Cenepa,Comas,"11°54'40.41""S","77° 3'21.91""O",BODEGA MAFER,Los Incas (*),Trapiche,1466,Trapiche cruce con los incas,Urb. El Pinar
+Av. Trapiche,Comas,"11°54'12.17""S","77° 3'10.64""O",BOTICA DIANITA BAZAR Y ACCESORIOS,Oficina,Trapiche,Mz. C Lt. 1,Entrada Alameda El Pinar,AA HH Villa Juanita
+Calle 1,Comas,"11°55'13.64""S","77° 3'39.61""O",BODEGA NATHY,Siglo 21,Tungasuca,Mz Q-2 Lt. 16,Av. Trapiche primera entrada de espinar.,Urb. El Alamo 2 etapa entrada el Pinar
+Av. Universitaria Norte,Comas,"11°54'4.43""S","77° 2'25.42""O",MULTISERVICIOS E INVERSIONES OKANE,San Felipe,Tungasuca,10561,Av. Universitaria con paradero San Felipe.,Urb. San Felipe
+AV. UNIVERSITARIA NORTE,Comas,"11°56'7.12""S","77° 3'22.74""O",COMERCIAL LISI E.I.R.L,N.A,Tungasuca,7492A,CRUCE AV. UNIVERSITARIA CON BELAUNDE OES,EL RETABLO
+Mz F Lt 17-A ,Villa El Salvador,"12°12'6.91""S","76°56'49.27""O",FARMACIA QUIVEFARMA,Revolucion,Villa El Salvador,Sector 1 Grupo 20,A 1 ½ del paradero 27 /a 1cdra de Av. El Sol con Alamos,

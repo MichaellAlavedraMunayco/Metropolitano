@@ -1,0 +1,14 @@
+dash==1.0.0
+dash-renderer==1.0.0
+dash-html-components==1.0.0
+dash-core-components==1.0.0
+plotly==4.3.0
+pandas==0.24.2
+gunicorn==19.9.0
+mysql-connector-python==8.0.17
+configparser
+Cython
+sklearn
+numpy
+matplotlib
+pdfkit
